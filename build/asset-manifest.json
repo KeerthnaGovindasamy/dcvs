@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ba6c484f.css",
+    "main.js": "/static/js/main.72839bd8.js",
+    "static/js/527.0a6e83df.chunk.js": "/static/js/527.0a6e83df.chunk.js",
+    "static/js/758.2aa88e2e.chunk.js": "/static/js/758.2aa88e2e.chunk.js",
+    "static/js/225.b5f0b908.chunk.js": "/static/js/225.b5f0b908.chunk.js",
+    "static/js/327.15ae5bc6.chunk.js": "/static/js/327.15ae5bc6.chunk.js",
+    "static/js/417.9fd35746.chunk.js": "/static/js/417.9fd35746.chunk.js",
+    "static/js/755.41a33766.chunk.js": "/static/js/755.41a33766.chunk.js",
+    "static/css/583.8b0d4d6e.chunk.css": "/static/css/583.8b0d4d6e.chunk.css",
+    "static/js/583.2e92f8e2.chunk.js": "/static/js/583.2e92f8e2.chunk.js",
+    "static/media/DS_LOGO.png": "/static/media/DS_LOGO.f3d4cc51bf064e41fadd.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.ba6c484f.css",
+    "static/js/main.72839bd8.js"
+  ]
+}

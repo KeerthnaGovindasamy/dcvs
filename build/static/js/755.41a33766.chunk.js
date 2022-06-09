@@ -1,0 +1,2 @@
+/*! For license information please see 755.41a33766.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkdskill=self.webpackChunkdskill||[]).push([[755],{65755:function(t,e,n){n.d(e,{UO:function(){return a}});var u=n(37732);var s=(0,u.createContext)({outlet:null,matches:[]});function a(){var t=(0,u.useContext)(s).matches,e=t[t.length-1];return e?e.params:{}}}}]);
